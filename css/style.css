@@ -1,4 +1,7 @@
 /* appling google font over the website  */
+html{
+        overflow-x: hidden;
+}
 body{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
